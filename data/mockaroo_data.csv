@@ -1,0 +1,6 @@
+store_id,store_name,product_name,category,brand,price,stock_availability,city
+1,Reliance Smart,Rice,Groceries,India Gate,60,In Stock,Delhi
+2,Big Bazaar,Sugar,Groceries,Tata,45,Out of Stock,Mumbai
+3,Dmart,Milk,Dairy,Amul,30,In Stock,Pune
+4,Spencer's,Bread,Bakery,Britannia,25,In Stock,Kolkata
+5,More Store,Oil,Groceries,Fortune,120,Out of Stock,Bangalore
